@@ -184,6 +184,7 @@ If you want to add a skill collection, follow these steps:
 1. Create a new skill collection in the `skills/` directory
 2. Implement the skill interface
 3. Register the skill in `skills/YOUR_SKILL_COLLECTION/__init__.py`
+4. finish
 
 If you want to add a simple skill, follow these steps:
 
